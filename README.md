@@ -22,3 +22,9 @@ Completed:
 -   Setup unit testing
     
 -   Provide a sample database with some data inputted
+
+
+Steps to test this program:
+ - Run schema.ipynb to create the database and tables
+ - Run populate_database.ipynb to populate the database with some sample entries.
+ - Run api_unittests.ipynb to test custom exceptions.
